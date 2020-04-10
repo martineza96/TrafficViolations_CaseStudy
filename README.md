@@ -15,7 +15,7 @@ I decided to plot a random sample of the geoposition data on a map of the realiv
 
 ![alt text][map]
 
-[map]: https://raw.githubusercontent.com/mkain112/TrafficViolations_CaseStudy/master/MarylandHeatMap.png"Full Zoom and more detail available in the repo"
+[map]: https://raw.githubusercontent.com/mkain112/TrafficViolations_CaseStudy/master/MarylandHeatMap.png "Full Zoom and more detail available in the repo"
 
 If nothing else was learned from this project, I still earned how to find speedtraps and police hotspots. If nothing else I have decied to do this with data from any region I end up living in. The full heatmap code is available in this repo.
 
