@@ -50,6 +50,6 @@ The null hypothesis was that EPA estimated MPG was unrelated to frequency of tra
 [perDay]: https://github.com/mkain112/TrafficViolations_CaseStudy/blob/master/NumberOfTrafficStopsByDayOfYear.png?raw=true
 [byYear]: https://github.com/mkain112/TrafficViolations_CaseStudy/blob/master/ViolationHistByYear.png?raw=true 
 [badscatter]: https://github.com/mkain112/TrafficViolations_CaseStudy/blob/master/badscatter.png?raw=true
-[city]: https://github.com/mkain112/TrafficViolations_CaseStudy/blob/master/cityregress.png?raw=true
-[hwy]: https://github.com/mkain112/TrafficViolations_CaseStudy/blob/master/hwyregress.png?raw=true
-[combo]: https://github.com/mkain112/TrafficViolations_CaseStudy/blob/master/comboregress.png?raw=true
+[city]: https://github.com/mkain112/TrafficViolations_CaseStudy/blob/master/cityregress.png?raw=true "City MPG vs Violations Per sale"
+[hwy]: https://github.com/mkain112/TrafficViolations_CaseStudy/blob/master/hwyregress.png?raw=true "Highway MPG vs Violations Per sale"
+[combo]: https://github.com/mkain112/TrafficViolations_CaseStudy/blob/master/comboregress.png?raw=true "Combined MPG vs Violations Per sale"
