@@ -5,10 +5,8 @@ Outline the process for the data pipeline
 Data was taken from the Maryland Department of Transportaion via Kaggle. 
 EDA was as follows:
 + Frequency analysis of vairous aspects of the Data 
-+ by year examination of stops
++ by year examination of violation frequency
 ![alt text][byYear]
-+ feature type
-+ Vehicle color
 + Stops per day
 ![alt text][perDay]
 + Vehicle type
