@@ -1,4 +1,5 @@
-# TrafficViolations_CaseStudy
+https://docs.google.com/presentation/d/1JM18MIVkmse6pizhs9QKPcZw9q7IZwXjyuT1YkPXo1o/edit?usp=sharing
+
 1 - 3 page github Readme with above information included
 Outline the process for the data pipeline
 
