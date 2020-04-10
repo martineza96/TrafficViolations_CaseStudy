@@ -18,7 +18,7 @@ I decided to plot a random sample of the geoposition data on a map of the realiv
 
 ![alt text][map]
 
-If nothing else was learned from this project, I still earned how to find speedtraps and police hotspots. If nothing else I have decied to do this with data from any region I end up living in. The full, zoomable heatmap code with streets is available in this repo.
+If nothing else was learned from this project, I still earned how to find speedtraps and police hotspots. I have decied to do this with data from any region I end up living in. The full, zoomable heatmap code with streets is available in this repo.
 
 Then we decided we wanted to look into more detail about the types of cars with violations
 This lead to additonal data being procured from the EPA and the Ford Motor company.
