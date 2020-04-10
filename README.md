@@ -6,10 +6,15 @@ Data was taken from the Maryland Department of Transportaion via Kaggle.
 EDA was as follows:
 + Frequency analysis of vairous aspects of the Data 
 + by year examination of stops
+![alt text][byYear]
 + feature type
 + Vehicle color
++ Stops per day
+![alt text][perDay]
 + Vehicle type
 + Viloation type
+
+![alt text][vios]
 
 I decided to plot a random sample of the geoposition data on a map of the realivat area, and using 30 thousand samples I generated a fairly accurate estimation of where all the speedtraps likely are in the Maryland/DC area.
 
@@ -32,4 +37,7 @@ Multiple Data Visualizations
 Outline Hypothesis Tests and results
 Notebook containing EDA
 
+[vios]: https://github.com/mkain112/TrafficViolations_CaseStudy/blob/master/10MostCommonViolations.png?raw=true
 [map]: https://raw.githubusercontent.com/mkain112/TrafficViolations_CaseStudy/master/MarylandHeatMap.png "Full Zoom and more detail available in the repo"
+[perDay]: https://github.com/mkain112/TrafficViolations_CaseStudy/blob/master/NumberOfTrafficStopsByDayOfYear.png?raw=true
+[byYear]: https://github.com/mkain112/TrafficViolations_CaseStudy/blob/master/ViolationHistByYear.png?raw=true 
