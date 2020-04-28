@@ -43,11 +43,11 @@ But this data didnt account for the inherent frequency of cars on the road. To c
 
 The null hypothesis was that EPA estimated MPG was unrelated to frequency of traffic stops/sale, but upon analysis it was discovered, with p values of 0.0021 combined,  0.0010 highway and 0.0031 city respectivly that the null hypothesis cannot be accepted and required further analysis.
 
-[vios]: https://github.com/mkain112/TrafficViolations_CaseStudy/blob/master/10MostCommonViolations.png?raw=true
-[map]: https://raw.githubusercontent.com/mkain112/TrafficViolations_CaseStudy/master/MarylandHeatMap.png "Full Zoom and more detail available in the repo"
-[perDay]: https://github.com/mkain112/TrafficViolations_CaseStudy/blob/master/NumberOfTrafficStopsByDayOfYear.png?raw=true
-[byYear]: https://github.com/mkain112/TrafficViolations_CaseStudy/blob/master/ViolationHistByYear.png?raw=true 
-[badscatter]: https://github.com/mkain112/TrafficViolations_CaseStudy/blob/master/badscatter.png?raw=true
-[city]: https://github.com/mkain112/TrafficViolations_CaseStudy/blob/master/cityregress.png?raw=true "City MPG vs Violations Per sale"
-[hwy]: https://github.com/mkain112/TrafficViolations_CaseStudy/blob/master/hwyregress.png?raw=true "Highway MPG vs Violations Per sale"
-[combo]: https://github.com/mkain112/TrafficViolations_CaseStudy/blob/master/comboregress.png?raw=true "Combined MPG vs Violations Per sale"
+[vios]: https://github.com/mkain112/TrafficViolations_CaseStudy/blob/master/img/10MostCommonViolations.png?raw=true
+[map]: https://raw.githubusercontent.com/mkain112/TrafficViolations_CaseStudy/master/img/MarylandHeatMap.png "Full Zoom and more detail available in the repo"
+[perDay]: https://github.com/mkain112/TrafficViolations_CaseStudy/blob/master/img/NumberOfTrafficStopsByDayOfYear.png?raw=true
+[byYear]: https://github.com/mkain112/TrafficViolations_CaseStudy/blob/master/img/ViolationHistByYear.png?raw=true 
+[badscatter]: https://github.com/mkain112/TrafficViolations_CaseStudy/blob/master/img/badscatter.png?raw=true
+[city]: https://github.com/mkain112/TrafficViolations_CaseStudy/blob/master/img/cityregress.png?raw=true "City MPG vs Violations Per sale"
+[hwy]: https://github.com/mkain112/TrafficViolations_CaseStudy/blob/master/img/hwyregress.png?raw=true "Highway MPG vs Violations Per sale"
+[combo]: https://github.com/mkain112/TrafficViolations_CaseStudy/blob/master/img/comboregress.png?raw=true "Combined MPG vs Violations Per sale"
